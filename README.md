@@ -10,133 +10,92 @@
   
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/hougarry/chatgpt-advanced-prompts)
 
-</div>
+## 📌 Einführung
 
-
-
-## 📌 Introduction
-
-
-🟥 One-Click-Deploy Your Own Advanced ChatGPT-prompts-database by Vercel, like
+🟥 Mit einem Klick deine eigene erweiterte ChatGPT-Prompts-Datenbank mit Vercel bereitstellen, ähnlich wie
 
 [DEMO](https://chatgpt-advanced-prompts-database.vercel.app/)
 
 [DEMO2](https://chatgpt-advanced-prompts-database.vercel.app/)
 
-🟥 **Out of respect for the original Prompt creators, we will continue to add the Prompt creators' Social links/GitHub links.**
+🟥 **Aus Respekt vor den ursprünglichen Prompt-Erstellern werden wir weiterhin die Social-Media-Links/GitHub-Links der Prompt-Ersteller hinzufügen.**
 
-    "A GitHub repository dedicated to advanced usage and commands for ChatGPT. Includes setup guides for web deployment, advanced-chatgpt-prompts database, and tutorials about how to design advanced prompt." 
+    "Ein GitHub-Repository, das der erweiterten Verwendung und Befehlen für ChatGPT gewidmet ist. Enthält Einrichtungsanleitungen für die Web-Bereitstellung, erweiterte ChatGPT-Prompts-Datenbank und Tutorials zum Entwerfen erweiterter Prompt."
 
-You only need to share one advanced prompt and you can submit it through Pull Requests or in the Issues section to become a contributor.
+Du musst nur einen erweiterten Prompt teilen und kannst ihn über Pull Requests oder im Bereich Issues einreichen, um ein Beitragender zu werden.
 
-Given our limited individual resources, we don't have a plethora of advanced prompts. We are open to adding multiple collaborators and contributors. Embrace the open-source spirit!
+Aufgrund unserer begrenzten individuellen Ressourcen haben wir keine Vielzahl von erweiterten Prompts. Wir sind offen für die Aufnahme mehrerer Mitwirkender und Beitragender. Begrüße den Open-Source-Gedanken!
 
-## 📊 Statistics
+## 📊 Statistiken
 
-- 📚 **40+** Advanced ChatGPT Commands
-- 🌐 Created an ad-free web platform for ease of use
-- 🛄 Resources sourced from: Discord/Reddit/Youtube/Github, etc.
+- 📚 **40+** Erweiterte ChatGPT-Befehle
+- 🌐 Erstellung einer werbefreien Webplattform für eine einfache Nutzung
+- 🛄 Ressourcen aus: Discord/Reddit/Youtube/Github usw.
 
-## 📚 Content
+## 📚 Inhalt
 
-This repository includes:
-- 📘 Guide to Creating Advanced ChatGPT Commands (Keyword Search: Prompt Create)
-- 📙 Detailed explanations of various popular advanced prompts
-- 📕 Resources for learning about prompts
-- 📽️ Personally developed advanced prompts
+Dieses Repository enthält:
 
-The content is sourced from the internet, personal creations, and contributions from the online community. It's a ChatGPT advanced prompt quick-reference manual worth bookmarking. 🌟
+- 📘 Anleitung zur Erstellung erweiterter ChatGPT-Befehle (Stichwortsuche: Prompt erstellen)
+- 📙 Detaillierte Erklärungen verschiedener beliebter erweiterter Prompts
+- 📕 Ressourcen zum Lernen von Prompts
+- 📽️ Persönlich entwickelte erweiterte Prompts
 
-If you are looking for basic prompts, you can click below:
+Der Inhalt stammt aus dem Internet, eigenen Kreationen und Beiträgen aus der Online-Community. Es ist ein ChatGPT-Handbuch für erweiterte Prompts, das es wert ist, als Schnellreferenz markiert zu werden. 🌟
 
-[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) : More than 13k stars
+Wenn du nach grundlegenden Prompts suchst, kannst du hier klicken:
 
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) : More than 88k stars
+[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) : Mehr als 13k Sterne
 
-
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) : Mehr als 88k Sterne
 
 ## Installation
 
-You can easily deploy the web version yourself; just clone it to your vps. Additionally, we also provide Docker and Vercel deployment methods.
+Du kannst die Webversion problemlos selbst bereitstellen; klon einfach das Repository auf deinen VPS. Darüber hinaus bieten wir auch Methoden für die Bereitstellung mit Docker und Vercel an.
 
-⚠️ If you decide to deploy your own static website version, consider adding a link to the original GitHub repository so that the command documentation can be collectively improved and enriched.
+⚠️ Wenn du dich entscheidest, deine eigene statische Website-Version bereitzustellen, solltest du einen Link zum ursprünglichen GitHub-Repository hinzufügen, damit die Befehlsdokumentation gemeinsam verbessert und angereichert werden kann.
 
-### VPS Deployment
+### VPS-Bereitstellung
 
-### Docker Deployment
+### Docker-Bereitstellung
 
-### Vercel Deployment
+### Vercel-Bereitstellung
 
-Click the button below for a one-click deployment to [Vercel](https://vercel.com):
+Klicke auf die Schaltfläche unten für eine Ein-Klick-Bereitstellung mit [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/hougarry/chatgpt-advanced-prompts)
+[![Bereitstellen mit Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/hougarry/chatgpt-advanced-prompts)
 
-## Advanced Commands
+## Fortgeschrittene Befehle
 
-**English Version:**
+**Deutsche Version:**
 
-| Role Name                     | Description                             |
-| ----------------------------- | --------------------------------------- |
-| AI Content Detection & Anti-Detection | AI content detection and counter-detection |
-| ChatGPT Dev Mode + Ranti       | ChatGPT developer mode for versatile GPT tasks |
-| CogniFlow Thought Modeling     | Advanced AI entity mapping human thought process |
-| English Tutor                 | Personalized English tutoring based on your level |
-| English Vocabulary Coach      | Vocabulary coaching with intelligent mnemonic generation |
-| GPT Dev Mode 2                | Developer mode version 2                |
-| Business Plan Generator       | Smart business plan generation to aid writing |
-| AI Teacher                    | Auto-generate outlines and content in any language |
-| Niche-Finding Guru            | Assistance in finding niches in any field |
-| GPT Command Element Designer  | Advanced command element design and usage |
-| Command God Mode              | Smart command generation to enhance detail |
-| Command Improvement           | Smart command generation to refine instructions |
-| SaucyGPT Sensual Content      | Intelligent sensual content generation (not for minors) |
-| UI Web Development Expert     | Proficient in web development, helping you create websites |
-| Yiqiu Prompts                 | Yiqiu prompts                           |
-| Blog Writer Assistant         | Smart article generation to assist writing |
-| Computer Expert               | IT and development expert, solving coding issues |
-| Developer Brainstorm Mode     | IT project brainstorming, auto-generating experts and project evaluations |
-| Finance Consultant            | Finance domain expert, unlocking financial insights |
-| Gym Coach                     | Intelligent fitness plan generation, specializing in rehabilitation training |
-| Jailbreak Mode                | Empower GPT to perform various tasks    |
-| Omni-Expert                  | Solving problems in diverse fields, mastery in multiple domains |
-| Philosophy Master             | Discussing political issues and reasoning |
-| Latency Reduction with Skeleton of Thought Prompting | Reduce latency, enhance GPT's generation speed |
-| Translation Assistant         | Accurate translation generation, supporting multiple languages |
-| Unlock Picture Generation Mode | Intelligent image generation, unlocking various image formats |
+|Rollenname|Beschreibung|
+|---|---|
+| AI-Inhaltsdetektion & Anti-Detektion | KI-Inhaltsdetektion und Gegenentdeckung |
+| ChatGPT Entwicklermodus + Ranti | Entwicklermodus von ChatGPT für vielseitige GPT-Aufgaben |
+| CogniFlow Gedankenmodellierung | Fortgeschrittene KI zur Kartierung des menschlichen Denkprozesses |
+| Englisch-Tutor | Persönliches Englischtraining basierend auf deinem Niveau |
+| Englisch-Vokabeltrainer | Vokabeltraining mit intelligenter mnemonischer Generierung |
+| GPT Entwicklermodus 2 | Entwicklermodus Version 2 |
+| Geschäftsplan-Generator | Intelligente Geschäftsplanerstellung zur Unterstützung beim Schreiben |
+| KI-Lehrer | Automatische Generierung von Gliederungen und Inhalten in jeder Sprache |
+| Nischenfinder-Guru | Unterstützung bei der Suche nach Nischen in jedem Bereich |
+| GPT-Befehlselement-Designer | Fortgeschrittene Befehlselementgestaltung und -verwendung |
+| Befehlsgottmodus | Intelligente Befehlsgenerierung zur Verbesserung von Details |
+| Befehlsverbesserung | Intelligente Befehlsgenerierung zur Verfeinerung von Anweisungen |
+| SaucyGPT Sinnlicher Inhalt | Intelligente Generierung sinnlicher Inhalte (nicht für Minderjährige) |
+| UI-Webentwicklungsexperte | Versiert in Webentwicklung, hilft dir beim Erstellen von Websites |
+| Yiqiu Prompts | Yiqiu-Prompts |
+| Blogschreiber-Assistent | Intelligente Artikelgenerierung zur Unterstützung beim Schreiben |
+| Computerexperte | IT- und Entwicklungsexperte, der Codierungsprobleme löst |
+| Entwickler-Brainstorming-Modus | Brainstorming für IT-Projekte, automatische Generierung von Experten und Projektevaluierungen |
+| Finanzberater | Finanzbereichs-Experte, der finanzielle Einblicke freischaltet |
+| Fitnesscoach | Intelligente Fitnessplanerstellung, spezialisiert auf Rehabilitations-Training |
+| Jailbreak-Modus | Ermögliche GPT, verschiedene Aufgaben auszuführen |
+| Omni-Experte | Problemlösung in verschiedenen Bereichen, Beherrschung mehrerer Domänen |
+| Philosophie-Meister | Diskussion politischer Themen und Argumentation |
+| Latenzreduktion mit Gedanken-Skelett-Auslösung | Reduziere Latenz, verbessere die Generationsgeschwindigkeit von GPT |
+| Übersetzungsassistent | Genauigkeit bei der Übersetzungsgenerierung, unterstützt mehrere Sprachen |
+| Freischalten des Bildgenerierungsmodus | Intelligente Bildgenerierung, Freischaltung verschiedener Bildformate |
 
-........more waiting!
-
-## ⚖️ Legal Disclaimer
-
-- 📝 Copyright belongs to the original authors
-- ⚠️ This repository has no commercial purpose
-- 🚫 No liability for any legal issues or risks
-
-## 📬 Copyright Issues
-
-If you believe your copyright has been violated, please inform us. 💌
-
-## ⚠️ Disclaimer
-
-- 🛑 Content correctness is not fully guaranteed
-- 🚫 Any risks arising from the use of this site's content are not my responsibility
-
-## 📜 Terms of Use
-
-By using this site, you agree to its terms of use and privacy policy. ✅
-
-## Sub-branch
-## Thanks
-
-Thanks for platforms and projects that inpired this, below as following:
-- [Discord](https://discord.com/)
-- [Reddit](https://www.reddit.com/)
-- [ChatGPt](https://chat.openai.com/)
-- [Githublinux-command](https://github.com/jaywcjlove/linux-command)
-- [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
-- [wonderful-prompts](https://github.com/yzfly/wonderful-prompts)
-- [LangGPT](https://github.com/yzfly/LangGPT)
-## License
-
-This project is under the MIT License. Please refer to the `LICENSE` file in the repository for more information.
-
+........mehr wartend!
